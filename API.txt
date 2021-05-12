@@ -1,0 +1,45 @@
+2021-05-10 17:13:26,428-INFO-do_mylog.py-python11-日志信息:获取到的结果是{'reason': '必须为10位时间戳或时间范围错误', 'result': None, 'error_code': 209501}
+2021-05-10 17:13:26,699-INFO-do_mylog.py-python11-日志信息:获取到的结果是{'resultcode': '101', 'reason': '错误的请求KEY!!', 'result': None, 'error_code': 10001}
+2021-05-10 17:13:26,932-INFO-do_mylog.py-python11-日志信息:获取到的结果是{'resultcode': '101', 'reason': '错误的请求KEY!!', 'result': None, 'error_code': 10001}
+2021-05-10 17:13:27,093-INFO-do_mylog.py-python11-日志信息:获取到的结果是{'resultcode': '101', 'reason': '错误的请求KEY!!', 'result': None, 'error_code': 10001}
+2021-05-10 17:13:27,723-INFO-do_mylog.py-python11-日志信息:获取到的结果是{'resultcode': '101', 'reason': '错误的请求KEY!!', 'result': None, 'error_code': 10001}
+2021-05-10 17:13:28,704-INFO-do_mylog.py-python11-日志信息:获取到的结果是{'error_code': 216602, 'reason': '错误的请求参数'}
+2021-05-10 17:13:28,871-INFO-do_mylog.py-python11-日志信息:获取到的结果是{'error_code': 216602, 'reason': '错误的请求参数'}
+2021-05-10 17:13:29,202-INFO-do_mylog.py-python11-日志信息:获取到的结果是{'resultcode': '101', 'reason': 'KEY ERROR!', 'result': [], 'error_code': 10001}
+2021-05-10 17:13:29,446-INFO-do_mylog.py-python11-日志信息:获取到的结果是{'resultcode': '101', 'reason': 'KEY ERROR!', 'result': [], 'error_code': 10001}
+2021-05-10 17:13:29,604-INFO-do_mylog.py-python11-日志信息:获取到的结果是{'error_code': 0, 'reason': 'success', 'result': {'data': {'conclusion': '[大吉]时来运转，事事如意，功成名就，富贵自来', 'analysis': '利路享通万事成，和畅逍达四海明，家运隆盛招富贵，万商云集得繁荣。'}}}
+2021-05-10 17:13:29,814-INFO-do_mylog.py-python11-日志信息:获取到的结果是{'resultcode': '101', 'reason': '错误的请求KEY!!!', 'result': None, 'error_code': 10001}
+2021-05-10 17:13:29,922-INFO-do_mylog.py-python11-日志信息:获取到的结果是{'resultcode': '202', 'reason': 'Wrong phone number!', 'result': None, 'error_code': 201102}
+2021-05-10 17:13:30,105-INFO-do_mylog.py-python11-日志信息:获取到的结果是{'resultcode': '202', 'reason': 'Wrong phone number!', 'result': None, 'error_code': 201102}
+2021-05-10 17:13:30,219-INFO-do_mylog.py-python11-日志信息:获取到的结果是{'resultcode': '202', 'reason': 'Wrong phone number!', 'result': None, 'error_code': 201102}
+2021-05-10 17:13:30,527-INFO-do_mylog.py-python11-日志信息:获取到的结果是{'resultcode': '202', 'reason': 'Wrong phone number!', 'result': None, 'error_code': 201102}
+2021-05-12 10:48:41,644-INFO-do_mylog.py-python11-日志信息:获取到的结果是{'reason': 'Success', 'result': {'data': [{'content': '某先生是地方上的要人。一天，他像往常一样在书房里例览当日报纸，突然对妻子大声喊道：喂，安娜，你看到今天早报上的流言蜚语了吗？真可笑！他们说，你收拾行装出走了。你听见了吗？安娜、你在哪儿？安娜？啊！', 'hashId': '90B182FC7F74865B40B1E5807CFEBF41', 'unixtime': 1418745227, 'updatetime': '2014-12-16 23:53:47'}]}, 'error_code': 0}
+2021-05-12 10:48:41,762-INFO-do_mylog.py-python11-日志信息:获取到的结果是{'resultcode': '101', 'reason': '错误的请求KEY!!', 'result': None, 'error_code': 10001}
+2021-05-12 10:48:41,867-INFO-do_mylog.py-python11-日志信息:获取到的结果是{'resultcode': '101', 'reason': '错误的请求KEY!!', 'result': None, 'error_code': 10001}
+2021-05-12 10:48:41,978-INFO-do_mylog.py-python11-日志信息:获取到的结果是{'resultcode': '101', 'reason': '错误的请求KEY!!', 'result': None, 'error_code': 10001}
+2021-05-12 10:48:42,087-INFO-do_mylog.py-python11-日志信息:获取到的结果是{'resultcode': '101', 'reason': '错误的请求KEY!!', 'result': None, 'error_code': 10001}
+2021-05-12 10:48:42,245-INFO-do_mylog.py-python11-日志信息:获取到的结果是{'error_code': 0, 'reason': 'success', 'result': {'data': {'conclusion': '[凶]动摇不安，常陷逆境，不得时运，难得利润', 'analysis': '坚持是您现时最缺乏的品质，由于没有坚定的目标，会使您陷入相当困苦的境地。而当获得成功时，却发现时不与我，外部环境已使得竞争激烈导致利润下降。'}}}
+2021-05-12 10:48:42,359-INFO-do_mylog.py-python11-日志信息:获取到的结果是{'error_code': 0, 'reason': 'success', 'result': {'data': {'conclusion': '[凶]动摇不安，常陷逆境，不得时运，难得利润', 'analysis': '坚持是您现时最缺乏的品质，由于没有坚定的目标，会使您陷入相当困苦的境地。而当获得成功时，却发现时不与我，外部环境已使得竞争激烈导致利润下降。'}}}
+2021-05-12 10:48:42,480-INFO-do_mylog.py-python11-日志信息:获取到的结果是{'resultcode': '101', 'reason': 'KEY ERROR!', 'result': [], 'error_code': 10001}
+2021-05-12 10:48:42,591-INFO-do_mylog.py-python11-日志信息:获取到的结果是{'resultcode': '101', 'reason': 'KEY ERROR!', 'result': [], 'error_code': 10001}
+2021-05-12 10:48:42,710-INFO-do_mylog.py-python11-日志信息:获取到的结果是{'error_code': 0, 'reason': 'success', 'result': {'data': {'conclusion': '[大吉]时来运转，事事如意，功成名就，富贵自来', 'analysis': '利路享通万事成，和畅逍达四海明，家运隆盛招富贵，万商云集得繁荣。'}}}
+2021-05-12 10:48:42,867-INFO-do_mylog.py-python11-日志信息:获取到的结果是{'resultcode': '101', 'reason': '错误的请求KEY!!!', 'result': None, 'error_code': 10001}
+2021-05-12 10:48:42,991-INFO-do_mylog.py-python11-日志信息:获取到的结果是{'resultcode': '200', 'reason': 'Return Successd!', 'result': {'province': '广东', 'city': '揭阳', 'areacode': '0663', 'zip': '522000', 'company': '移动', 'card': ''}, 'error_code': 0}
+2021-05-12 10:48:43,113-INFO-do_mylog.py-python11-日志信息:获取到的结果是{'resultcode': '202', 'reason': 'Wrong phone number!', 'result': None, 'error_code': 201102}
+2021-05-12 10:48:43,228-INFO-do_mylog.py-python11-日志信息:获取到的结果是{'resultcode': '200', 'reason': 'Return Successd!', 'result': {'province': '广东', 'city': '揭阳', 'areacode': '0663', 'zip': '522000', 'company': '移动', 'card': ''}, 'error_code': 0}
+2021-05-12 10:48:43,354-INFO-do_mylog.py-python11-日志信息:获取到的结果是{'resultcode': '200', 'reason': 'Return Successd!', 'result': {'province': '广东', 'city': '揭阳', 'areacode': '0663', 'zip': '522000', 'company': '移动', 'card': ''}, 'error_code': 0}
+2021-05-12 12:46:06,847-INFO-do_mylog.py-python11-日志信息:获取到的结果是{'reason': 'Success', 'result': {'data': [{'content': '某先生是地方上的要人。一天，他像往常一样在书房里例览当日报纸，突然对妻子大声喊道：喂，安娜，你看到今天早报上的流言蜚语了吗？真可笑！他们说，你收拾行装出走了。你听见了吗？安娜、你在哪儿？安娜？啊！', 'hashId': '90B182FC7F74865B40B1E5807CFEBF41', 'unixtime': 1418745227, 'updatetime': '2014-12-16 23:53:47'}]}, 'error_code': 0}
+2021-05-12 12:46:06,949-INFO-do_mylog.py-python11-日志信息:获取到的结果是{'resultcode': '101', 'reason': '错误的请求KEY!!', 'result': None, 'error_code': 10001}
+2021-05-12 12:46:07,046-INFO-do_mylog.py-python11-日志信息:获取到的结果是{'resultcode': '101', 'reason': '错误的请求KEY!!', 'result': None, 'error_code': 10001}
+2021-05-12 12:46:07,133-INFO-do_mylog.py-python11-日志信息:获取到的结果是{'resultcode': '101', 'reason': '错误的请求KEY!!', 'result': None, 'error_code': 10001}
+2021-05-12 12:46:07,229-INFO-do_mylog.py-python11-日志信息:获取到的结果是{'resultcode': '101', 'reason': '错误的请求KEY!!', 'result': None, 'error_code': 10001}
+2021-05-12 12:46:07,388-INFO-do_mylog.py-python11-日志信息:获取到的结果是{'error_code': 0, 'reason': 'success', 'result': {'data': {'conclusion': '[凶]惨淡经营，难免贫困，此数不吉，最好改名', 'analysis': '事业不济，入不敷出，坚持一个不好的行业，不会带来事业的腾飞，最好适时转行。'}}}
+2021-05-12 12:46:07,522-INFO-do_mylog.py-python11-日志信息:获取到的结果是{'error_code': 0, 'reason': 'success', 'result': {'data': {'conclusion': '[凶]惨淡经营，难免贫困，此数不吉，最好改名', 'analysis': '事业不济，入不敷出，坚持一个不好的行业，不会带来事业的腾飞，最好适时转行。'}}}
+2021-05-12 12:46:07,613-INFO-do_mylog.py-python11-日志信息:获取到的结果是{'resultcode': '101', 'reason': 'KEY ERROR!', 'result': [], 'error_code': 10001}
+2021-05-12 12:46:07,709-INFO-do_mylog.py-python11-日志信息:获取到的结果是{'resultcode': '101', 'reason': 'KEY ERROR!', 'result': [], 'error_code': 10001}
+2021-05-12 12:46:07,823-INFO-do_mylog.py-python11-日志信息:获取到的结果是{'error_code': 0, 'reason': 'success', 'result': {'data': {'conclusion': '[大吉]时来运转，事事如意，功成名就，富贵自来', 'analysis': '利路享通万事成，和畅逍达四海明，家运隆盛招富贵，万商云集得繁荣。'}}}
+2021-05-12 12:46:07,966-INFO-do_mylog.py-python11-日志信息:获取到的结果是{'resultcode': '101', 'reason': '错误的请求KEY!!!', 'result': None, 'error_code': 10001}
+2021-05-12 12:46:08,086-INFO-do_mylog.py-python11-日志信息:获取到的结果是{'resultcode': '200', 'reason': 'Return Successd!', 'result': {'province': '广东', 'city': '揭阳', 'areacode': '0663', 'zip': '522000', 'company': '移动', 'card': ''}, 'error_code': 0}
+2021-05-12 12:46:08,196-INFO-do_mylog.py-python11-日志信息:获取到的结果是{'resultcode': '202', 'reason': 'Wrong phone number!', 'result': None, 'error_code': 201102}
+2021-05-12 12:46:08,315-INFO-do_mylog.py-python11-日志信息:获取到的结果是{'resultcode': '200', 'reason': 'Return Successd!', 'result': {'province': '广东', 'city': '揭阳', 'areacode': '0663', 'zip': '522000', 'company': '移动', 'card': ''}, 'error_code': 0}
+2021-05-12 12:46:08,425-INFO-do_mylog.py-python11-日志信息:获取到的结果是{'resultcode': '200', 'reason': 'Return Successd!', 'result': {'province': '广东', 'city': '揭阳', 'areacode': '0663', 'zip': '522000', 'company': '移动', 'card': ''}, 'error_code': 0}

@@ -1,0 +1,12 @@
+[MODE]
+mode={"joke":"all",
+      "qq":"all",
+      "phone":"all"}
+
+[DB]
+db_config={'host':'47.107.168.87',
+            'user':'python',
+            'password':'python666',
+            'port':3306,
+            'database':'future',
+            }
