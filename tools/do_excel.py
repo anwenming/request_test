@@ -17,11 +17,11 @@ class Do_excle:
         mode=eval(ReadConfig.get_config(project_path.test_confige_path,'MODE','mode'))
         test_data = []
         tel = wb['init'].cell(3, 2).value
-        print(tel)
+        # print(tel)
         qq_1 = wb['init'].cell(2, 2).value
-        print(qq_1)
+        # print(qq_1)
         time_side = wb['init'].cell(1, 2).value
-        print(time_side)
+        # print(time_side)
         for key in mode:
             sheet=wb[key]
             if mode[key] == 'all':
